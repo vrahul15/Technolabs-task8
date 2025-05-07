@@ -2,7 +2,7 @@
 let userName = ''; // User can input their name here, e.g., 'Jane'
 
 // Step 2: Ternary to greet the user
-userName ? console.log(`Hello, ${userName}!`) : console.log('Hello!');
+userName ? console.log(`Hello, ${userName}!`) : console.log('carey!');
 
 // Step 3: Define the question
 let userQuestion = 'Will I ace my exams?'; // You can change this question
